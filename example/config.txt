@@ -1,0 +1,2 @@
+Prefix plujgins/BAMContig/example/
+Plugin BAMContig inputfile parameters.txt outputfile .
